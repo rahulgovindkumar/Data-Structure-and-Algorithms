@@ -8,3 +8,7 @@ Practice 150 Leetcode Problems
 * `EASY`  **242. Valid Anagram** https://leetcode.com/problems/valid-anagram/
 
 * `EASY`  **1. Two Sum** https://leetcode.com/problems/two-sum/
+
+
+### Two Pointers
+* `EASY`  **125. Valid Palindrome** https://leetcode.com/problems/valid-palindrome/
