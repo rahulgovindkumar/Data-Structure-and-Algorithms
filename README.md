@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithms
-Practice 150 Lettcode Problems
+Practice 150 Leetcode Problems
 
 -----
 ### Arrays & Hashing
